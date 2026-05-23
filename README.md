@@ -6,7 +6,7 @@ An enterprise-scale cloud tenant testing environment focused on SharePoint site 
 This repository documents the deployment of a Microsoft 365 E3 trial tenant used to explore the front-end capabilities of SharePoint Online. The project focuses on building collaborative environments, structuring document libraries, and enforcing security baselines to mimic a corporate intranet.
 
 ## 📂 Included Documentation
-* **[SharePoint learning](SharePoint%20learning):** *[Note: Update this filename/extension to match your exact file once uploaded]* Core laboratory documentation detailing tenant setup, site creation, and front-end design configurations.
+* **[SharePoint_Learning.pdf](SharePoint_Learning.pdf):** Core laboratory documentation detailing tenant setup, site creation, and front-end design configurations.
 
 ## 🔍 Key Lab Objectives & Configurations
 * **Front-End Site Design:** Built functional communication and team sites to evaluate user experience (UX), navigation flows, and web part layouts.
